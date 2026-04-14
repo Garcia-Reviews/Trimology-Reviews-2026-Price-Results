@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://garcia-reviews.github.io/Trimology-Reviews-2026-Price-Results/sitemap.xml
